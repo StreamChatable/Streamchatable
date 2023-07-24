@@ -1,5 +1,7 @@
 # Stream Chat-able 👋
 
+![image](https://github.com/StreamChatable/Streamchatable/assets/140426252/6b307c12-3669-402b-926a-c750687cebb3)
+
 The creation of the remapping toolboxes Open Macro Input allows to make the concept of "Twitch Play" for a large range of game.  
 So the question is simple... is the game Chat-able ?  
 What we should play next ?   
