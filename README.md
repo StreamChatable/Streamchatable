@@ -15,6 +15,7 @@ Donation: https://paypal.me/streamchatable
 Main Stream:
 Youtube: https://www.youtube.com/@streamchatable  
 Twitch: https://www.twitch.tv/streamchatable  
+Odysee: https://odysee.com/@StreamChatable:f?view=about
 
 Secondary Stream:
 Facebook: https://www.facebook.com/profile.php?id=100095109883987    
