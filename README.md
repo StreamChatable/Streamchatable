@@ -5,8 +5,8 @@
 
 
  
-The creation of the remapping toolboxes Open Macro Input allows to make the concept of "Twitch Play" for a large range of game.  
-So the question is simple... is the game Chat-able ?  
+The creation of the remapping toolboxes Open Macro Input allows to make the concept of "Twitch Play" for a large range of game on most of the platform.
+So the question is simple... what game are Chat-able ?  
 What we should play next ?   
 
 Discord: https://discord.gg/GwfBJCDCe3  
