@@ -1,6 +1,7 @@
 
  
- # ![S42C_128x128_TouchH](https://github.com/StreamChatable/Streamchatable/assets/140426252/5bea02b7-f3fd-4713-b827-ceca60fedf95)  Stream Chat-able 👋
+ # ![S42C_64_TouchH](https://github.com/StreamChatable/Streamchatable/assets/140426252/dd0aecbe-5068-427b-bda9-0e065ecdac47)  Stream Chat-able 👋
+
 
 
  
