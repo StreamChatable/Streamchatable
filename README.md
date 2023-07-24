@@ -1,6 +1,7 @@
 
  
- #  ![S42C_32x32_Touch](https://github.com/StreamChatable/Streamchatable/assets/140426252/f535d574-c7e0-4015-8b7a-6fea1c91768b) Stream Chat-able 👋
+ # ![S42C_128x128_TouchH](https://github.com/StreamChatable/Streamchatable/assets/140426252/5bea02b7-f3fd-4713-b827-ceca60fedf95) ![S42C_32x32_Touch](https://github.com/StreamChatable/Streamchatable/assets/140426252/f535d574-c7e0-4015-8b7a-6fea1c91768b) Stream Chat-able 👋
+
 
  
 The creation of the remapping toolboxes Open Macro Input allows to make the concept of "Twitch Play" for a large range of game.  
