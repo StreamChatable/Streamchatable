@@ -27,3 +27,7 @@ Nimo : https://www.nimo.tv/live/3379679492
 LinkedIn (Need follower to active): https://www.linkedin.com/in/stream-chatable-686ab6284/  
 Picarto (Art): https://picarto.tv/StreamChatable  
 Trovo : https://trovo.live/s/StreamChatable?roomType=1  
+
+
+Twitter: https://twitter.com/StreamChatable
+Instagram: https://www.instagram.com/streamchatable/
