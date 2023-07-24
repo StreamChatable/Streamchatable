@@ -1,6 +1,6 @@
-# Stream Chat-able 👋
+# 
+![S42C_128_Touch](https://github.com/StreamChatable/Streamchatable/assets/140426252/bb28052a-2952-4e13-81a6-dd19a2e3d8f7) Stream Chat-able 👋
 
-![S42C_128_Touch](https://github.com/StreamChatable/Streamchatable/assets/140426252/bb28052a-2952-4e13-81a6-dd19a2e3d8f7)
 
 The creation of the remapping toolboxes Open Macro Input allows to make the concept of "Twitch Play" for a large range of game.  
 So the question is simple... is the game Chat-able ?  
