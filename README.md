@@ -1,16 +1,20 @@
-### Hi there 👋
+# Stream Chat-able 👋
 
-<!--
-**StreamChatable/Streamchatable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: https://discord.gg/GwfBJCDCe3  
+  
+Youtube: https://www.youtube.com/@streamchatable  
+Twitch: https://www.twitch.tv/streamchatable  
+Facebook: https://www.facebook.com/profile.php?id=100095109883987  
+  
+Kick : https://kick.com/StreamChatable  
+DLive : https://dlive.tv/StreamChatable  
+  
+Vaughtn : https://vaughn.live/streamchatable  
+Nono Live : https://www.nonolive.com/profile/53999446  
+Nimo : https://www.nimo.tv/live/3379679492  
+  
+LinkedIn (Need follower): https://www.linkedin.com/in/stream-chatable-686ab6284/  
+Picarto (Art): https://picarto.tv/StreamChatable  
+Trovo : https://trovo.live/s/StreamChatable?roomType=1  
