@@ -10,6 +10,7 @@ So the question is simple... what game are Chat-able ?
 What we should play next ?   
 
 Discord: https://discord.gg/GwfBJCDCe3  
+Donation: https://paypal.me/streamchatable
 
 Main Stream:
 Youtube: https://www.youtube.com/@streamchatable  
