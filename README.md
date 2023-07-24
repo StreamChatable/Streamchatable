@@ -32,5 +32,5 @@ Picarto (Art): https://picarto.tv/StreamChatable
 Trovo : https://trovo.live/s/StreamChatable?roomType=1  
 
 
-Twitter: https://twitter.com/StreamChatable
-Instagram: https://www.instagram.com/streamchatable/
+Twitter: https://twitter.com/StreamChatable  
+Instagram: https://www.instagram.com/streamchatable/  
