@@ -1,6 +1,8 @@
 # Stream Chat-able 👋
 
-
+The creation of the remapping toolboxes Open Macro Input allows to make the concept of "Twitch Play" for a large range of game.  
+So the question is simple... is the game Chat-able ?  
+What we should play next ?   
 
 Discord: https://discord.gg/GwfBJCDCe3  
 
